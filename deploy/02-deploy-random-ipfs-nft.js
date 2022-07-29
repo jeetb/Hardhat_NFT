@@ -16,7 +16,7 @@ const metadataTemplate = {
   image: "",
   attributes: [
     {
-      trait_type: "cuteness",
+      trait_type: "Cuteness",
       value: 100,
     },
   ],
